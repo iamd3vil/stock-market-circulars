@@ -46,7 +46,7 @@ func NewService(host, apiKey, collection string) *Service {
 // SearchOptions configures a search query
 type SearchOptions struct {
 	Query   string
-	Source  string // Filter by source: nse, bse, sebi
+	Source  string // Filter by source: nse, bse, sebi, mcx
 	Page    int
 	PerPage int
 }
@@ -87,11 +87,11 @@ func (s *Service) Search(opts SearchOptions) (*SearchResult, error) {
 
 	// Build search parameters
 	params := &api.SearchCollectionParams{
-		Q:        opts.Query,
-		QueryBy:  "title,description,content",
-		Page:     pointer.Int(opts.Page),
-		PerPage:  pointer.Int(opts.PerPage),
-		SortBy:   pointer.String("date:desc"),
+		Q:       opts.Query,
+		QueryBy: "title,description,content",
+		Page:    pointer.Int(opts.Page),
+		PerPage: pointer.Int(opts.PerPage),
+		SortBy:  pointer.String("date:desc"),
 	}
 
 	// Add source filter if specified
@@ -195,37 +195,37 @@ func (s *Service) GetSchema() *api.CollectionSchema {
 				Type: "int64",
 			},
 			{
-				Name: "source",
-				Type: "string",
+				Name:  "source",
+				Type:  "string",
 				Facet: pointer.True(),
 			},
 			{
-				Name: "category",
-				Type: "string",
+				Name:  "category",
+				Type:  "string",
 				Facet: pointer.True(),
 			},
 			{
-				Name: "impact",
-				Type: "string",
-				Facet: pointer.True(),
+				Name:     "impact",
+				Type:     "string",
+				Facet:    pointer.True(),
 				Optional: pointer.True(),
 			},
 			{
-				Name: "severity",
-				Type: "string",
-				Facet: pointer.True(),
+				Name:     "severity",
+				Type:     "string",
+				Facet:    pointer.True(),
 				Optional: pointer.True(),
 			},
 			{
-				Name: "tags",
-				Type: "string[]",
-				Facet: pointer.True(),
+				Name:     "tags",
+				Type:     "string[]",
+				Facet:    pointer.True(),
 				Optional: pointer.True(),
 			},
 			{
-				Name: "stocks",
-				Type: "string[]",
-				Facet: pointer.True(),
+				Name:     "stocks",
+				Type:     "string[]",
+				Facet:    pointer.True(),
 				Optional: pointer.True(),
 			},
 			{

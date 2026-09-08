@@ -5,17 +5,18 @@ description: "Subscribe to stock market circular updates via RSS"
 
 ## Available RSS Feeds
 
-Subscribe to these RSS feeds to stay updated on regulatory circulars from NSE, BSE, and SEBI.
+Subscribe to these RSS feeds to stay updated on regulatory circulars from NSE, BSE, SEBI, and MCX.
 
 ### All Circulars
 
-- **[All Circulars Feed]({{< feedurl "/feed.xml" >}})** - All circulars from NSE, BSE, and SEBI
+- **[All Circulars Feed]({{< feedurl "/feed.xml" >}})** - All circulars from NSE, BSE, SEBI, and MCX
 
 ### By Source
 
 - **[NSE Circulars]({{< feedurl "/circulars/nse/feed.xml" >}})** - National Stock Exchange circulars only
 - **[BSE Circulars]({{< feedurl "/circulars/bse/feed.xml" >}})** - Bombay Stock Exchange circulars only
 - **[SEBI Circulars]({{< feedurl "/circulars/sebi/feed.xml" >}})** - Securities and Exchange Board of India circulars only
+- **[MCX Circulars]({{< feedurl "/circulars/mcx/feed.xml" >}})** - Multi Commodity Exchange circulars only
 
 ### By Tags
 
@@ -38,7 +39,7 @@ Each RSS feed item includes:
 - **Publication Date** - Official publication date and time
 - **Link** - Direct link to the full circular on this website
 - **PDF URL** - Link to the original PDF document
-- **Source** - NSE, BSE, or SEBI
+- **Source** - NSE, BSE, SEBI, or MCX
 - **Category** - trading, compliance, listing, disclosure, etc.
 - **Impact Level** - High, medium, or low market impact
 - **Severity** - Regulatory severity level

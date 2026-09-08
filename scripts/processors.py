@@ -9,6 +9,7 @@ import subprocess
 import tempfile
 from pathlib import Path
 from typing import Dict, Optional, Tuple
+from urllib.parse import urlsplit
 
 import httpx
 from markitdown import MarkItDown
@@ -33,11 +34,16 @@ class FileDownloader:
         Returns: (file_path, error_type) where error_type can be '404', 'validation', or None
         """
         async with self.download_semaphore:
+            parsed_url = urlsplit(url)
             headers = {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                "Referer": "https://www.bseindia.com/",
-                "Origin": "https://www.bseindia.com",
             }
+            if parsed_url.netloc.endswith("mcxindia.com"):
+                headers["Referer"] = "https://www.mcxindia.com/"
+            else:
+                # Preserve the headers used by existing NSE/BSE/SEBI downloads.
+                headers["Referer"] = "https://www.bseindia.com/"
+                headers["Origin"] = "https://www.bseindia.com"
             
             try:
                 temp_file = tempfile.NamedTemporaryFile(suffix='.tmp', delete=False)

@@ -2,8 +2,9 @@
 
 import asyncio
 import re
+from datetime import datetime, timedelta, timezone
 from typing import Dict, List, Optional
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlsplit, urlunsplit
 
 import httpx
 from lxml import etree, html
@@ -17,19 +18,22 @@ class RSSExtractor:
         self.retry_delays = retry_delays or [5, 15, 30]
     
     async def download_rss_feed(self, source: str, url: str) -> Optional[str]:
-        """Download RSS feed with validation"""
+        """Download a source feed and validate its expected format."""
         headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
         
-        print(f"Downloading RSS feed for {source}: {url}")
+        print(f"Downloading feed for {source}: {url}")
         content = await self._fetch_with_retry(url, headers)
         
         if content:
             try:
-                etree.fromstring(content.encode())  # Validate XML
-                print(f"Successfully downloaded and validated RSS for {source}")
+                if source == "mcx":
+                    html.fromstring(content)
+                else:
+                    etree.fromstring(content.encode())
+                print(f"Successfully downloaded and validated feed for {source}")
                 return content
             except Exception as e:
-                print(f"RSS validation failed for {source}: {e}")
+                print(f"Feed validation failed for {source}: {e}")
                 return None
         return None
     
@@ -61,7 +65,10 @@ class RSSExtractor:
         return None
     
     def parse_rss_feed(self, content: str, source: str) -> List[Dict[str, str]]:
-        """Parse RSS feed content and extract items"""
+        """Parse a source feed and extract normalized circular items."""
+        if source == "mcx":
+            return self._parse_mcx_circulars_page(content)
+
         try:
             root = etree.fromstring(content.encode())
             items = []
@@ -91,6 +98,58 @@ class RSSExtractor:
             
         except Exception as e:
             print(f"Failed to parse RSS for {source}: {e}")
+            return []
+
+    def _parse_mcx_circulars_page(self, content: str) -> List[Dict[str, str]]:
+        """Parse MCX's HTML circular listing, which is used in place of RSS."""
+        try:
+            doc = html.fromstring(content)
+            items = []
+            seen = set()
+            india_tz = timezone(timedelta(hours=5, minutes=30))
+
+            for anchor in doc.xpath('.//a[contains(translate(@href, "PDF", "pdf"), ".pdf")]'):
+                href = (anchor.get('href') or '').strip()
+                if not href:
+                    continue
+
+                row = anchor.xpath('ancestor::tr[1]')
+                if not row:
+                    continue
+                row_text = ' '.join(' '.join(row[0].itertext()).split())
+                date_match = re.search(
+                    r'\b(\d{1,2}\s+(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+\d{4})\b',
+                    row_text,
+                    re.IGNORECASE,
+                )
+                if not date_match:
+                    continue
+
+                title = ' '.join(' '.join(anchor.itertext()).split())
+                if not title:
+                    continue
+
+                download_url = urljoin('https://www.mcxindia.com/', href)
+                parts = urlsplit(download_url)
+                guid = urlunsplit((parts.scheme, parts.netloc, parts.path, '', ''))
+                if guid in seen:
+                    continue
+                seen.add(guid)
+
+                published = datetime.strptime(
+                    date_match.group(1).title(), '%d %b %Y'
+                ).replace(tzinfo=india_tz)
+                items.append({
+                    'title': title,
+                    'download_url': download_url,
+                    'guid': guid,
+                    'pubdate': published.isoformat(),
+                })
+
+            print(f"Parsed {len(items)} items from MCX circulars page")
+            return items
+        except Exception as e:
+            print(f"Failed to parse MCX circulars page: {e}")
             return []
 
 

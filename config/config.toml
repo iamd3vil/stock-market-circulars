@@ -24,6 +24,7 @@ max_concurrent_downloads = 3
 nse = "https://nsearchives.nseindia.com/content/RSS/Circulars.xml"
 bse = "https://www.bseindia.com/data/xml/notices.xml"
 sebi = "https://www.sebi.gov.in/sebirss.xml"
+mcx = "https://www.mcxindia.com/circulars/all-circulars"
 
 [processing]
 # PDF processing settings
@@ -168,7 +169,7 @@ Suggested tag themes and examples:
 - Client onboarding and KYC: kyc, know-your-client, kra, kyc-registration-agency, pan-verification, ucc, unique-client-code, ucc-file-format, ucc-api, uci, unique-client-identifier
 - Regulatory circulars: master-circular
 - New product launches: product-launch
-- Regulatory sources and venues: sebi, rbi, pfrda, bse, nse, bse-star, nse-mf, bse-mf
+- Regulatory sources and venues: sebi, rbi, pfrda, bse, nse, mcx, bse-star, nse-mf, bse-mf
 - Offers and acquisitions: offer-to-buy, acquisition-window, takeover-offer, buyback-offer, opening-of-offer-to-buy, settlement-schedule-offer, settlement-schedule-offer-to-buy
 - Bhavcopy and market data: bhavcopy, segment-bhavcopy"""
 

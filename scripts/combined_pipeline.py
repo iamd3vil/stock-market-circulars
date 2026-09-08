@@ -22,13 +22,13 @@ The functionality has been split into multiple modules:
 
 - models.py: Data models and enums
 - config.py: Configuration handling  
-- extractors.py: RSS parsing and PDF URL extraction
+- extractors.py: Source feed parsing and PDF URL extraction
 - processors.py: File processing and Gemini integration
 - pipeline.py: Main pipeline orchestration
 - cli.py: Command-line interface
 
 Usage:
-    uv run scripts/combined_pipeline.py nse bse sebi
+    uv run scripts/combined_pipeline.py nse bse sebi mcx
     uv run scripts/combined_pipeline.py bse --max-items 5 --debug
 """
 

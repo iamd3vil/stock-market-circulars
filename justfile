@@ -6,9 +6,9 @@ default:
 
 # Core Commands
 
-# Run RSS scraping and AI processing pipeline
+# Run source scraping and AI processing pipeline
 pipeline:
-    @echo "🚀 Running RSS scraping & AI processing pipeline..."
+    @echo "🚀 Running source scraping & AI processing pipeline..."
     cd scripts && uv run combined_pipeline.py main
 
 # Regenerate specific items with updated prompts
@@ -68,16 +68,17 @@ trigger-workflow:
     @echo "🚀 Triggering GitHub Actions workflow..."
     @gh workflow run update-circulars.yml
 
-# Validate RSS feeds are accessible
+# Validate source feeds are accessible
 validate:
-    @echo "🔍 Validating RSS feeds..."
+    @echo "🔍 Validating source feeds..."
     @curl -sf "https://nsearchives.nseindia.com/content/RSS/Circulars.xml" > /dev/null && echo "✅ NSE RSS" || echo "❌ NSE RSS"
     @curl -sf "https://www.bseindia.com/data/xml/notices.xml" > /dev/null && echo "✅ BSE RSS" || echo "❌ BSE RSS"
     @curl -sf "https://www.sebi.gov.in/sebirss.xml" > /dev/null && echo "✅ SEBI RSS" || echo "❌ SEBI RSS"
+    @curl -sf "https://www.mcxindia.com/circulars/all-circulars" > /dev/null && echo "✅ MCX circulars" || echo "❌ MCX circulars"
 
 # Setup for CI/CD or fresh development
 setup:
-    mkdir -p hugo-site/content/circulars/{nse,bse,sebi}/2025
+    mkdir -p hugo-site/content/circulars/{nse,bse,sebi,mcx}/2025
 
 # Normalization Commands
 
@@ -201,4 +202,3 @@ serve-with-git-sync:
     ADDR=:9999 \
     BASE_URL=http://localhost:9999 \
     go run cmd/server/main.go
-

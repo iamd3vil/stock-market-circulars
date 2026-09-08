@@ -113,7 +113,8 @@ class CircularsPipeline:
         self.rss_feeds = self.config.get("rss_feeds", {
             "nse": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
             "bse": "https://www.bseindia.com/data/xml/notices.xml", 
-            "sebi": "https://www.sebi.gov.in/sebirss.xml"
+            "sebi": "https://www.sebi.gov.in/sebirss.xml",
+            "mcx": "https://www.mcxindia.com/circulars/all-circulars",
         })
         
         # Logging directory (no longer using JSON state files)
@@ -214,18 +215,18 @@ class CircularsPipeline:
 
     async def process_source(self, source: str, max_items: Optional[int] = None) -> SourceStats:
         """Process a single RSS source"""
-        self.log(f"Processing {source.upper()} RSS feed")
-        self.log(f"RSS URL for {source}: {self.rss_feeds.get(source)}", "DEBUG")
+        self.log(f"Processing {source.upper()} feed")
+        self.log(f"Feed URL for {source}: {self.rss_feeds.get(source)}", "DEBUG")
         
         # Download RSS feed
         rss_url = self.rss_feeds.get(source)
         if not rss_url:
-            self.log(f"No RSS URL configured for source: {source}", "ERROR")
+            self.log(f"No feed URL configured for source: {source}", "ERROR")
             return SourceStats(source=source, total_items=0, processed_items=0, completed_items=0, failed_items=0, success_rate=0)
         
         rss_content = await self.rss_extractor.download_rss_feed(source, rss_url)
         if not rss_content:
-            self.log(f"Failed to download RSS feed for {source}", "ERROR")
+            self.log(f"Failed to download feed for {source}", "ERROR")
             return SourceStats(source=source, total_items=0, processed_items=0, completed_items=0, failed_items=0, success_rate=0)
         
         items = self.rss_extractor.parse_rss_feed(rss_content, source)
