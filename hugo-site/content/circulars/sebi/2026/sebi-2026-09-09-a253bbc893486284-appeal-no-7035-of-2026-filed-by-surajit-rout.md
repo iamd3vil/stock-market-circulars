@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/sep-2026/1788948655958.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-09-09T13:33:10.558362'
+  processed_at: '2026-09-09T18:36:59.159724'
   processor_version: '2.0'
-  stage: download_failed
+  stage: ai_failed
   status: failed
 published_date: '2026-09-09T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7035-of-2026-filed-by-surajit-rout_104356.html
