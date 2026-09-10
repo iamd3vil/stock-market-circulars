@@ -6,7 +6,7 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/sep-2026/1788868803477_1.p
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-09-10T07:53:21.783139'
+  processed_at: '2026-09-10T13:42:00.017531'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
@@ -18,7 +18,8 @@ title: 'Notice of Demand under Recovery Certificate number 9296 of 2026 dated Se
   Subhash Agarwal (PAN: AAEPA6699R), Pooja Aggarwal (PAN: AGMPA6216C) and Rakesh Kumar
   Gupta (PAN: AAEPG2752R) [Defaulters], jointly and severally, in the matter of trading
   based stock recommendations using social media YouTube in the scrip of Sadhna Broadcast
-  Ltd.: under Recovery Certificate No. 9296 of 2026.'
+  Ltd.: under Recovery Certificate No. 9296 of 2026.<br><a href=''https://www.sebi.gov.in/sebi_data/commondocs/sep-2026/Corrigendum%20to%20Notice%20of%20Demand_p.pdf''
+  target=''_blank'' style=''color:#007ffc''>[Corrigendum to Notice of Demand]</a>'
 ---
 
 Processing in progress...
