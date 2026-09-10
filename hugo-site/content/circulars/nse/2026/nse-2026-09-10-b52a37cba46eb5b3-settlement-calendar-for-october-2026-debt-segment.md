@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/DS76286.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-09-10T20:51:28.542633'
+  processed_at: '2026-09-10T23:18:55.250417'
   processor_version: '2.0'
   stage: ai_failed
   status: failed

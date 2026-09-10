@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/EGR76278.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-09-10T20:52:06.358073'
+  processed_at: '2026-09-10T23:20:02.836210'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
