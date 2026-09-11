@@ -1,0 +1,19 @@
+---
+circular_id: 037e5d76c79192d2
+draft: true
+guid: https://nsearchives.nseindia.com/content/circulars/CML76319.pdf
+pdf_url: https://nsearchives.nseindia.com/content/circulars/CML76319.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-09-11T13:19:10.360207'
+  processor_version: '2.0'
+  stage: ai_failed
+  status: failed
+published_date: '2026-09-11T00:00:00+05:30'
+rss_url: https://nsearchives.nseindia.com/content/circulars/CML76319.pdf
+source: nse
+title: Suspension of trading in Non-Convertible Securities (Privately Placed)
+---
+
+Processing in progress...

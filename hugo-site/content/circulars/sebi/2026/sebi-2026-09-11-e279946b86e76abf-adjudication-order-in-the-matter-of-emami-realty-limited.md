@@ -1,0 +1,19 @@
+---
+circular_id: e279946b86e76abf
+draft: true
+guid: https://www.sebi.gov.in/enforcement/orders/sep-2026/adjudication-order-in-the-matter-of-emami-realty-limited_104440.html
+pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/sep-2026/ORDER_1789110170.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-09-11T13:25:16.366223'
+  processor_version: '2.0'
+  stage: ai_failed
+  status: failed
+published_date: '2026-09-11T00:00:00+05:30'
+rss_url: https://www.sebi.gov.in/enforcement/orders/sep-2026/adjudication-order-in-the-matter-of-emami-realty-limited_104440.html
+source: sebi
+title: Adjudication Order in the matter of Emami Realty Limited
+---
+
+Processing in progress...
