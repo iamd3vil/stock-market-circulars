@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/COM76297.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-09-12T12:50:06.772449'
+  processed_at: '2026-09-12T17:47:40.785737'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
