@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/sep-2026/ORDER_1789031238.
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-09-12T17:51:02.098469'
+  processed_at: '2026-09-12T20:12:35.189716'
   processor_version: '2.0'
-  stage: ai_failed
+  stage: download_failed
   status: failed
 published_date: '2026-09-10T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/orders/sep-2026/final-order-in-respect-of-priyanka-yadav-proprietor-of-trade-money-research_104412.html
