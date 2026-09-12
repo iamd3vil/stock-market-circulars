@@ -6,9 +6,9 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CMPT76332.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-09-12T20:05:50.808723'
+  processed_at: '2026-09-12T22:53:35.190410'
   processor_version: '2.0'
-  stage: ai_failed
+  stage: download_failed
   status: failed
 published_date: '2026-09-11T00:00:00+05:30'
 rss_url: https://nsearchives.nseindia.com/content/circulars/CMPT76332.pdf
