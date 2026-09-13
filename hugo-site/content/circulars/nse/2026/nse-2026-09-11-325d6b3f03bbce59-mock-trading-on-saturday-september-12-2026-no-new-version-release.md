@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CD76300.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-09-13T18:01:57.651084'
+  processed_at: '2026-09-13T20:21:13.244419'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
