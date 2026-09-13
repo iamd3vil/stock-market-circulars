@@ -6,9 +6,9 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CML76330.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-09-12T22:53:35.176599'
+  processed_at: '2026-09-13T02:36:01.022821'
   processor_version: '2.0'
-  stage: download_failed
+  stage: ai_failed
   status: failed
 published_date: '2026-09-11T00:00:00+05:30'
 rss_url: https://nsearchives.nseindia.com/content/circulars/CML76330.pdf
