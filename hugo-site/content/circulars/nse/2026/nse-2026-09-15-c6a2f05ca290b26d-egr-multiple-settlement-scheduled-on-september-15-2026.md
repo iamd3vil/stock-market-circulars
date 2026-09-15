@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/EGR76315.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-09-15T18:52:32.181309'
+  processed_at: '2026-09-15T23:41:30.159608'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
