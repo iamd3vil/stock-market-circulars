@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/sep-2026/1789124164216.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-09-16T14:22:38.949725'
+  processed_at: '2026-09-16T19:13:22.077420'
   processor_version: '2.0'
-  stage: download_failed
+  stage: ai_failed
   status: failed
 published_date: '2026-09-11T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/orders/sep-2026/order-in-the-matter-of-certain-investment-advisers_104447.html
