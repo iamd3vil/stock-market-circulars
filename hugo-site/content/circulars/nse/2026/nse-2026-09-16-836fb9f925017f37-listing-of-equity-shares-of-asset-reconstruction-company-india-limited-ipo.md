@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CML76296.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-09-16T08:18:56.371296'
+  processed_at: '2026-09-16T14:15:38.306569'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
