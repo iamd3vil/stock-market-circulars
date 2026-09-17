@@ -1,0 +1,19 @@
+---
+circular_id: 8ae51c2cc052ab1c
+draft: true
+guid: https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7057-of-2026-filed-by-brijesh-sharma_104557.html
+pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/sep-2026/1789646802454.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-09-17T14:25:04.092929'
+  processor_version: '2.0'
+  stage: ai_failed
+  status: failed
+published_date: '2026-09-17T00:00:00+05:30'
+rss_url: https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7057-of-2026-filed-by-brijesh-sharma_104557.html
+source: sebi
+title: Appeal No. 7057 of 2026 filed by Brijesh Sharma
+---
+
+Processing in progress...
