@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/ISC76370.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-09-16T19:00:20.425097'
+  processed_at: '2026-09-16T23:55:42.579319'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
