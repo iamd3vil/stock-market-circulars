@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/MFSS76357.zip
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-09-16T23:56:57.478649'
+  processed_at: '2026-09-17T03:13:49.365225'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
