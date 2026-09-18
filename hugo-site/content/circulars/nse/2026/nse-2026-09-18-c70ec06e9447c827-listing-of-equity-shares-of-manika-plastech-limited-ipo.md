@@ -1,0 +1,19 @@
+---
+circular_id: c70ec06e9447c827
+draft: true
+guid: https://nsearchives.nseindia.com/content/circulars/CML76413.pdf
+pdf_url: https://nsearchives.nseindia.com/content/circulars/CML76413.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-09-18T07:58:44.303588'
+  processor_version: '2.0'
+  stage: ai_failed
+  status: failed
+published_date: '2026-09-18T00:00:00+05:30'
+rss_url: https://nsearchives.nseindia.com/content/circulars/CML76413.pdf
+source: nse
+title: Listing of Equity Shares of Manika Plastech Limited (IPO)
+---
+
+Processing in progress...
