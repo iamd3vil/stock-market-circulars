@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/FAOP76410.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-09-18T21:01:31.881507'
+  processed_at: '2026-09-18T23:28:32.170524'
   processor_version: '2.0'
   stage: download_failed
   status: failed

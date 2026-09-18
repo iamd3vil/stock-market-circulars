@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CML76420.zip
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-09-18T20:59:49.282170'
+  processed_at: '2026-09-18T23:26:50.992846'
   processor_version: '2.0'
   stage: download_failed
   status: failed
