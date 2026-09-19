@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/sep-2026/ORDER_1789121534.
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-09-19T08:16:57.072246'
+  processed_at: '2026-09-19T13:13:21.678462'
   processor_version: '2.0'
-  stage: download_failed
+  stage: ai_failed
   status: failed
 published_date: '2026-09-11T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/orders/sep-2026/final-enquiry-order-in-respect-of-modex-international-securities-ltd_104462.html
