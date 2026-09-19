@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/sep-2026/ORDER_1789557656.
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-09-19T18:04:36.152645'
+  processed_at: '2026-09-19T20:16:20.233355'
   processor_version: '2.0'
-  stage: ai_failed
+  stage: download_failed
   status: failed
 published_date: '2026-09-16T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/orders/sep-2026/ex-parte-interim-order-in-the-matter-of-cross-segment-price-manipulation-by-prrsaar-sampada-private-limited-and-chaubara-eats-private-limited_104528.html
