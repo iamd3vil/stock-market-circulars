@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CMTR76422.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-09-20T03:00:23.110127'
+  processed_at: '2026-09-20T08:30:33.636163'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
