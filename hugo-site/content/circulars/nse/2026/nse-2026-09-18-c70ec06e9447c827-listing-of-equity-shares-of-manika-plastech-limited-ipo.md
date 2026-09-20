@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CML76413.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-09-20T08:31:38.738950'
+  processed_at: '2026-09-20T13:53:05.836020'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
