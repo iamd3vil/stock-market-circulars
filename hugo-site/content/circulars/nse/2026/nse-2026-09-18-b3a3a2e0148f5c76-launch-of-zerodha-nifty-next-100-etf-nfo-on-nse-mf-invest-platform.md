@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/NMF76424.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-09-20T23:07:19.712955'
+  processed_at: '2026-09-21T02:53:27.273066'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
