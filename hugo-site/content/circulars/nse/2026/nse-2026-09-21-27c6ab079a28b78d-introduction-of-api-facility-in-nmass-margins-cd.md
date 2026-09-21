@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CD76434.zip
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-09-21T15:58:33.382214'
+  processed_at: '2026-09-21T21:53:43.180845'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
