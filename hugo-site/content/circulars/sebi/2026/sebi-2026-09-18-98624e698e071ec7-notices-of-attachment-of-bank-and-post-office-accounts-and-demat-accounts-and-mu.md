@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/sep-2026/1790076603317_1.p
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-09-22T23:57:10.483937'
+  processed_at: '2026-09-23T03:09:57.561882'
   processor_version: '2.0'
-  stage: ai_failed
+  stage: download_failed
   status: failed
 published_date: '2026-09-18T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/notices-of-attachment-of-bank-and-post-office-accounts-and-demat-accounts-and-mutual-fund-folios-with-ap-nos-15805-and-15806-of-2026-dated-september-18-2026-issued-against-harsha-ishvarbhai-solanki-_104651.html
