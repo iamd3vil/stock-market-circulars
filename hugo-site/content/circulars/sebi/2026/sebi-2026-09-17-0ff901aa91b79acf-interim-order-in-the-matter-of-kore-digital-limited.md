@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/sep-2026/ORDER_1789637783.
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-09-23T08:16:25.574482'
+  processed_at: '2026-09-23T14:20:50.690439'
   processor_version: '2.0'
-  stage: ai_failed
+  stage: download_failed
   status: failed
 published_date: '2026-09-17T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/orders/sep-2026/interim-order-in-the-matter-of-kore-digital-limited_104570.html
