@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/INVG76511.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-09-23T14:12:07.834940'
+  processed_at: '2026-09-23T19:13:12.255376'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
