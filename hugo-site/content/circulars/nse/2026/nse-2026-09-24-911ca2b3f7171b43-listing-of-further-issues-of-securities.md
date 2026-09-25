@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CML76537.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-09-24T19:00:26.100807'
+  processed_at: '2026-09-25T00:04:25.956776'
   processor_version: '2.0'
   stage: ai_failed
   status: failed

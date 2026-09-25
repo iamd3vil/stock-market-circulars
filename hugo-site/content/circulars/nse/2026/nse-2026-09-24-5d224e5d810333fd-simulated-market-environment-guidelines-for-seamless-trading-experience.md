@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/MSD76532.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-09-24T19:00:57.657625'
+  processed_at: '2026-09-25T00:05:00.652487'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
