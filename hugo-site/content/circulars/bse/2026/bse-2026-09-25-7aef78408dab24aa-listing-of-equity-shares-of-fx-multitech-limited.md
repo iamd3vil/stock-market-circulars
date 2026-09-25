@@ -1,0 +1,19 @@
+---
+circular_id: 7aef78408dab24aa
+draft: true
+guid: https://www.bseindia.com/downloads/UploadDocs/Notices/20260925-22/20260925-22.pdf
+pdf_url: https://www.bseindia.com/downloads/UploadDocs/Notices/20260925-22/20260925-22.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-09-25T14:45:11.620144'
+  processor_version: '2.0'
+  stage: ai_failed
+  status: failed
+published_date: '2026-09-25T11:01:48+00:00'
+rss_url: https://www.bseindia.com/downloads/UploadDocs/Notices/20260925-22/20260925-22.pdf
+source: bse
+title: Listing of Equity Shares of FX Multitech Limited
+---
+
+Processing in progress...
