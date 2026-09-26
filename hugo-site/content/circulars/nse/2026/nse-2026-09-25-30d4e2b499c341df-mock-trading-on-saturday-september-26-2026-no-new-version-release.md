@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/SLBS76540.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-09-26T03:07:39.464916'
+  processed_at: '2026-09-26T08:26:07.809675'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
