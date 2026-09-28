@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/sep-2026/1790259036651.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-09-28T03:08:00.199684'
+  processed_at: '2026-09-28T09:19:10.888882'
   processor_version: '2.0'
-  stage: ai_failed
+  stage: download_failed
   status: failed
 published_date: '2026-09-24T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/media-and-notifications/press-releases/sep-2026/key-decisions-taken-in-the-sebi-board-meeting-dated-24th-september-2026_104725.html
