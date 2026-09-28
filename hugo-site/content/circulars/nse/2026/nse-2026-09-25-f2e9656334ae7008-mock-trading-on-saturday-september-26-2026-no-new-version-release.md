@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/EGR76541.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-09-27T23:48:48.991435'
+  processed_at: '2026-09-28T03:06:30.347559'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
