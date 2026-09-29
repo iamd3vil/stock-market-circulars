@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/sep-2026/ORDER_1790589438.
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-09-29T09:29:20.798248'
+  processed_at: '2026-09-29T18:05:24.094734'
   processor_version: '2.0'
-  stage: download_failed
+  stage: ai_failed
   status: failed
 published_date: '2026-09-28T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/sebi_data/attachdocs/sep-2026/ORDER_1790589438.pdf
