@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CMTR76589.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-09-28T19:27:28.900960'
+  processed_at: '2026-09-29T01:14:02.855180'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
