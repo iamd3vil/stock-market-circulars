@@ -1,0 +1,20 @@
+---
+circular_id: 158fb329f328a43e
+draft: true
+guid: https://nsearchives.nseindia.com/content/circulars/NMF76672.pdf
+pdf_url: https://nsearchives.nseindia.com/content/circulars/NMF76672.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-10-01T20:33:26.420109'
+  processor_version: '2.0'
+  stage: ai_failed
+  status: failed
+published_date: '2026-10-01T00:00:00+05:30'
+rss_url: https://nsearchives.nseindia.com/content/circulars/NMF76672.pdf
+source: nse
+title: Availability of Altiva Equity Long-Short Fund under Specialized Investment
+  Fund (SIF) on NSE MF Invest Platform
+---
+
+Processing in progress...
