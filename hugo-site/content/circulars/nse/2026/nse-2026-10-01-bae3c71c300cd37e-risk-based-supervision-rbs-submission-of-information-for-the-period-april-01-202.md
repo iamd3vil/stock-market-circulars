@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/INSP76664.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-02T00:53:37.215447'
+  processed_at: '2026-10-02T09:39:53.951864'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
