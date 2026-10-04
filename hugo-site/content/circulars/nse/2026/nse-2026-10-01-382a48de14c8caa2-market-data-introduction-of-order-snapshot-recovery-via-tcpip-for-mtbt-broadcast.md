@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/MSD76689.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-04T16:47:31.515029'
+  processed_at: '2026-10-04T21:14:26.564654'
   processor_version: '2.0'
   stage: ai_failed
   status: failed

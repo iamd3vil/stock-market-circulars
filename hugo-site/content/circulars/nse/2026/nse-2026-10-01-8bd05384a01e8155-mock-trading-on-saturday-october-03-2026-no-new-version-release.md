@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/SLBS76660.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-04T16:50:37.888112'
+  processed_at: '2026-10-04T21:17:51.074815'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
