@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/sep-2026/1790770909372.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-04T12:23:03.693349'
+  processed_at: '2026-10-04T16:53:23.073201'
   processor_version: '2.0'
-  stage: download_failed
+  stage: ai_failed
   status: failed
 published_date: '2026-09-30T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/orders/sep-2026/order-in-the-matter-of-dar-mentorcap-film-fund_104840.html
