@@ -1,0 +1,20 @@
+---
+circular_id: 3ea501f0175fb4a8
+draft: true
+guid: https://www.bseindia.com/downloads/UploadDocs/Notices/20261005-1/20261005-1.pdf
+pdf_url: https://www.bseindia.com/downloads/UploadDocs/Notices/20261005-1/20261005-1.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-10-05T03:38:27.314155'
+  processor_version: '2.0'
+  stage: ai_failed
+  status: failed
+published_date: '2026-10-05T02:22:57+00:00'
+rss_url: https://www.bseindia.com/downloads/UploadDocs/Notices/20261005-1/20261005-1.pdf
+source: bse
+title: Non-Competitive Bidding for Auction of State Government Securities (SDL) on
+  October 06, 2026
+---
+
+Processing in progress...
