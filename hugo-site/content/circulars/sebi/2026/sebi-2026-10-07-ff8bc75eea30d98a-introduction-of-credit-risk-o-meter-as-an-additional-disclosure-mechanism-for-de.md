@@ -2,11 +2,11 @@
 circular_id: ff8bc75eea30d98a
 draft: true
 guid: https://www.sebi.gov.in/legal/circulars/oct-2026/introduction-of-credit-risk-o-meter-as-an-additional-disclosure-mechanism-for-debt-securities_105081.html
-pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791375324647.pdf
+pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791436170839.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-08T00:57:49.805797'
+  processed_at: '2026-10-08T09:55:42.856317'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
