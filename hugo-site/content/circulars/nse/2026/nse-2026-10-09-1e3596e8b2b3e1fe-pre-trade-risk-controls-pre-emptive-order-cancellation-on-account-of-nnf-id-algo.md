@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CD76841.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-09T18:06:58.294345'
+  processed_at: '2026-10-09T22:36:38.180879'
   processor_version: '2.0'
   stage: download_failed
   status: failed

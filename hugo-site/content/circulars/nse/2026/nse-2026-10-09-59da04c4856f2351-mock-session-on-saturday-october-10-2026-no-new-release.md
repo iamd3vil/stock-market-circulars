@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/COM76817.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-09T18:11:30.901610'
+  processed_at: '2026-10-09T22:41:09.011255'
   processor_version: '2.0'
   stage: download_failed
   status: failed
