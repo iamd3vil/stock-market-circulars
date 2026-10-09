@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791377103033_3.p
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-09T01:27:01.927527'
+  processed_at: '2026-10-09T10:02:08.318717'
   processor_version: '2.0'
-  stage: ai_failed
+  stage: download_failed
   status: failed
 published_date: '2026-10-07T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/general-remittance-advice-against-saurabh-gupta-pan-bfepg0692e-defaulter-in-the-matter-of-trading-based-stock-recommendations-using-social-media-youtube-in-the-scrip-of-sadhna-broadcast-ltd-un-_105090.html
