@@ -6,9 +6,9 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/NMF76822.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-10T16:51:54.563285'
+  processed_at: '2026-10-10T21:15:09.891889'
   processor_version: '2.0'
-  stage: download_failed
+  stage: ai_failed
   status: failed
 published_date: '2026-10-09T00:00:00+05:30'
 rss_url: https://nsearchives.nseindia.com/content/circulars/NMF76822.pdf
