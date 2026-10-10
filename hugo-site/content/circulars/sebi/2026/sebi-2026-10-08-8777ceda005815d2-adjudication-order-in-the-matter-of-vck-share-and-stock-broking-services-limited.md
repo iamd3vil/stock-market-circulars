@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/ORDER_1791448979.
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-09T22:43:07.855734'
+  processed_at: '2026-10-10T04:14:17.656075'
   processor_version: '2.0'
-  stage: download_failed
+  stage: ai_failed
   status: failed
 published_date: '2026-10-08T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/orders/oct-2026/adjudication-order-in-the-matter-of-vck-share-and-stock-broking-services-limited_105115.html
