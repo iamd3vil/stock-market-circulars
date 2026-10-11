@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/NMF76814.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-11T17:21:21.387089'
+  processed_at: '2026-10-11T21:34:25.554322'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
