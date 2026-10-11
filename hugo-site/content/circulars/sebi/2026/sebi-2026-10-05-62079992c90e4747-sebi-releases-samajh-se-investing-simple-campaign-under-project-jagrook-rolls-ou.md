@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791210984403.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-10T21:20:45.215907'
+  processed_at: '2026-10-11T00:27:08.196378'
   processor_version: '2.0'
-  stage: download_failed
+  stage: ai_failed
   status: failed
 published_date: '2026-10-05T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/sebi-releases-samajh-se-investing-simple-campaign-under-project-jagrook-rolls-out-the-must-initiative-announces-its-presence-on-whatsapp-and-other-initiatives-for-investor-awareness-and-education_105034.html

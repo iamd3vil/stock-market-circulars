@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CD76824.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-10T21:14:47.381029'
+  processed_at: '2026-10-11T00:21:16.407441'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
