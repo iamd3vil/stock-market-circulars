@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791211079880.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-11T21:38:47.173368'
+  processed_at: '2026-10-12T03:48:00.501048'
   processor_version: '2.0'
-  stage: ai_failed
+  stage: download_failed
   status: failed
 published_date: '2026-10-05T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/sebi-opens-a-local-office-in-chandigarh_105035.html

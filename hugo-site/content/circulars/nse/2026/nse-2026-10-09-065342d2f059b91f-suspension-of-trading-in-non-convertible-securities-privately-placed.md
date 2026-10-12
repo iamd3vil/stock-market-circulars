@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CML76828.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-11T21:32:42.887392'
+  processed_at: '2026-10-12T03:42:46.107261'
   processor_version: '2.0'
   stage: ai_failed
   status: failed

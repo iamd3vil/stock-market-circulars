@@ -6,9 +6,9 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/INVG76848.zip
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-11T21:30:21.229059'
+  processed_at: '2026-10-12T03:40:07.364530'
   processor_version: '2.0'
-  stage: ai_failed
+  stage: download_failed
   status: failed
 published_date: '2026-10-09T00:00:00+05:30'
 rss_url: https://nsearchives.nseindia.com/content/circulars/INVG76848.zip
