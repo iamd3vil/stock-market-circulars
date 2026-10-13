@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CD76813.zip
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-12T22:44:56.233623'
+  processed_at: '2026-10-13T04:56:34.794346'
   processor_version: '2.0'
   stage: ai_failed
   status: failed

@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791803703675_1.p
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-12T22:44:28.370174'
+  processed_at: '2026-10-13T04:57:16.928019'
   processor_version: '2.0'
-  stage: download_failed
+  stage: ai_failed
   status: failed
 published_date: '2026-10-12T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/general-remittance-order-dated-october-12-2026-against-muse-traders-proprietor-baljit-singh-pan-berpr1999p-pure-traders-proprietor-bhavna-jethvani-pan-bbopj6519h-and-taj-enterprises-propri-_105161.html

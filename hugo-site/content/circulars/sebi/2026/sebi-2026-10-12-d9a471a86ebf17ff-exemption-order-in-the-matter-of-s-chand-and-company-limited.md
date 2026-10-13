@@ -6,7 +6,7 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/sep-2026/eo_schand_co.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-12T22:45:14.415083'
+  processed_at: '2026-10-13T04:57:20.903878'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
