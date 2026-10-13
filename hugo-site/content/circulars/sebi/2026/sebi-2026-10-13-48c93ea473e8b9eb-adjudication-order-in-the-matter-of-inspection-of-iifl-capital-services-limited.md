@@ -1,0 +1,19 @@
+---
+circular_id: 48c93ea473e8b9eb
+draft: true
+guid: https://www.sebi.gov.in/enforcement/orders/oct-2026/adjudication-order-in-the-matter-of-inspection-of-iifl-capital-services-limited_105198.html
+pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/ORDER_1791870153.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-10-13T13:29:38.718660'
+  processor_version: '2.0'
+  stage: ai_failed
+  status: failed
+published_date: '2026-10-13T00:00:00+05:30'
+rss_url: https://www.sebi.gov.in/enforcement/orders/oct-2026/adjudication-order-in-the-matter-of-inspection-of-iifl-capital-services-limited_105198.html
+source: sebi
+title: Adjudication Order in the matter of inspection of IIFL Capital Services Limited
+---
+
+Processing in progress...

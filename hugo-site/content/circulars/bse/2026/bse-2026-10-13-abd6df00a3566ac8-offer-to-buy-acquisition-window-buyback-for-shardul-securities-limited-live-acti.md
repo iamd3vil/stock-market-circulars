@@ -1,0 +1,20 @@
+---
+circular_id: abd6df00a3566ac8
+draft: true
+guid: https://www.bseindia.com/downloads/UploadDocs/Notices/20261013-6/20261013-6.pdf
+pdf_url: https://www.bseindia.com/downloads/UploadDocs/Notices/20261013-6/20261013-6.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-10-13T13:27:08.353949'
+  processor_version: '2.0'
+  stage: ai_failed
+  status: failed
+published_date: '2026-10-13T08:52:49+00:00'
+rss_url: https://www.bseindia.com/downloads/UploadDocs/Notices/20261013-6/20261013-6.pdf
+source: bse
+title: Offer to Buy – Acquisition Window (Buyback) for SHARDUL SECURITIES LIMITED
+  – Live Activities Schedule
+---
+
+Processing in progress...

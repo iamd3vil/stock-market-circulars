@@ -1,0 +1,19 @@
+---
+circular_id: f44ed94372e40934
+draft: true
+guid: https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7109-of-2026-filed-by-suneeta-devi-sachan_105192.html
+pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791867397421.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-10-13T13:30:02.468836'
+  processor_version: '2.0'
+  stage: ai_failed
+  status: failed
+published_date: '2026-10-12T00:00:00+05:30'
+rss_url: https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7109-of-2026-filed-by-suneeta-devi-sachan_105192.html
+source: sebi
+title: Appeal No. 7109 of 2026 filed by Suneeta Devi Sachan
+---
+
+Processing in progress...
