@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/ISC76893.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-14T19:33:20.480728'
+  processed_at: '2026-10-14T23:50:11.212479'
   processor_version: '2.0'
   stage: ai_failed
   status: failed

@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/MSD76877.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-14T19:34:32.150448'
+  processed_at: '2026-10-14T23:51:07.422617'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
