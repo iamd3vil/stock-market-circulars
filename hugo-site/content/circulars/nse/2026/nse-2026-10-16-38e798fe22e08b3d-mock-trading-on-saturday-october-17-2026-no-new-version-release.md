@@ -6,9 +6,9 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/FAOP76921.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-16T19:14:18.129948'
+  processed_at: '2026-10-16T23:38:45.844147'
   processor_version: '2.0'
-  stage: ai_failed
+  stage: download_failed
   status: failed
 published_date: '2026-10-16T00:00:00+05:30'
 rss_url: https://nsearchives.nseindia.com/content/circulars/FAOP76921.pdf
