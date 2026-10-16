@@ -1,0 +1,19 @@
+---
+circular_id: 3dc846d46a3a5f56
+draft: true
+guid: https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7110-of-2026-filed-by-vikram-aggarwal_105309.html
+pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1792154687966.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-10-16T19:14:39.909257'
+  processor_version: '2.0'
+  stage: ai_failed
+  status: failed
+published_date: '2026-10-16T00:00:00+05:30'
+rss_url: https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7110-of-2026-filed-by-vikram-aggarwal_105309.html
+source: sebi
+title: Appeal No. 7110 of 2026 filed by Vikram Aggarwal
+---
+
+Processing in progress...
