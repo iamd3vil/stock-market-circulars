@@ -2,11 +2,11 @@
 circular_id: d94049646fc3d493
 draft: true
 guid: https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/sebi-teams-win-at-iosco-techsprint-2026-on-investor-education-in-the-age-of-artificial-intelligence-ai-_105266.html
-pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791985400437.pdf
+pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1792133714159.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-16T02:50:38.771264'
+  processed_at: '2026-10-16T07:56:27.680602'
   processor_version: '2.0'
   stage: ai_failed
   status: failed

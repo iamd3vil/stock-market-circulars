@@ -1,0 +1,20 @@
+---
+circular_id: 447f0443ae7a826f
+draft: true
+guid: https://nsearchives.nseindia.com/content/circulars/NMF76950.zip
+pdf_url: https://nsearchives.nseindia.com/content/circulars/NMF76950.zip
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-10-16T07:54:05.579784'
+  processor_version: '2.0'
+  stage: ai_failed
+  status: failed
+published_date: '2026-10-16T00:00:00+05:30'
+rss_url: https://nsearchives.nseindia.com/content/circulars/NMF76950.zip
+source: nse
+title: Temporary Suspension of fresh subscription in certain schemes under Mirae Asset
+  Mutual Fund on NSE MF Invest Platform
+---
+
+Processing in progress...
