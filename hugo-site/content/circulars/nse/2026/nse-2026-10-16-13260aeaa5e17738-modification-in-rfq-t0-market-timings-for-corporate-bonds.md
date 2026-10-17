@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/DS76973.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-17T13:13:10.186751'
+  processed_at: '2026-10-17T18:06:52.750229'
   processor_version: '2.0'
   stage: ai_failed
   status: failed

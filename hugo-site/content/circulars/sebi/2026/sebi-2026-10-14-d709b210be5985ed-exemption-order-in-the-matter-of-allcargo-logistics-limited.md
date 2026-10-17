@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1791971676351.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-17T13:21:19.044587'
+  processed_at: '2026-10-17T18:14:48.821077'
   processor_version: '2.0'
-  stage: download_failed
+  stage: ai_failed
   status: failed
 published_date: '2026-10-14T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/orders/oct-2026/exemption-order-in-the-matter-of-allcargo-logistics-limited_105250.html
