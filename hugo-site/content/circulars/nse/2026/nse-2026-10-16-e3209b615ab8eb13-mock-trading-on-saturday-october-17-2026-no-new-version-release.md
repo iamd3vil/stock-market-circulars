@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CD76919.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-17T20:25:53.644574'
+  processed_at: '2026-10-17T23:29:16.378132'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
