@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/COMP76971.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-16T23:38:26.767382'
+  processed_at: '2026-10-17T02:59:13.354332'
   processor_version: '2.0'
   stage: download_failed
   status: failed

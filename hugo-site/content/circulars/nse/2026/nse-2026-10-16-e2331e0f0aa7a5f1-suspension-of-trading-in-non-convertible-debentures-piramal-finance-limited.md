@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CML76982.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-16T23:32:36.003109'
+  processed_at: '2026-10-17T02:57:30.733591'
   processor_version: '2.0'
   stage: download_failed
   status: failed
