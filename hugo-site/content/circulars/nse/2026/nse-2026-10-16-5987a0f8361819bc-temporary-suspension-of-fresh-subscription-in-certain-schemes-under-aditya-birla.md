@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/NMF76925.zip
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-18T02:56:50.000092'
+  processed_at: '2026-10-18T08:17:34.829420'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
