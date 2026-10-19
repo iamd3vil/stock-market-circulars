@@ -1,0 +1,20 @@
+---
+circular_id: 2e84ed6b716fdb05
+draft: true
+guid: https://www.bseindia.com/downloads/UploadDocs/Notices/20261019-48/20261019-48.pdf
+pdf_url: https://www.bseindia.com/downloads/UploadDocs/Notices/20261019-48/20261019-48.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-10-19T22:14:49.949499'
+  processor_version: '2.0'
+  stage: ai_failed
+  status: failed
+published_date: '2026-10-19T16:48:33+00:00'
+rss_url: https://www.bseindia.com/downloads/UploadDocs/Notices/20261019-48/20261019-48.pdf
+source: bse
+title: Offer to Buy – Acquisition Window (Takeover) for THE SOUTH INDIA PAPER MILLS
+  LIMITED – Live Activities Schedule
+---
+
+Processing in progress...
