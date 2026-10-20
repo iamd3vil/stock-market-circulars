@@ -6,7 +6,7 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1792407603653_1.p
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-20T08:18:47.855553'
+  processed_at: '2026-10-20T14:12:35.159171'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
