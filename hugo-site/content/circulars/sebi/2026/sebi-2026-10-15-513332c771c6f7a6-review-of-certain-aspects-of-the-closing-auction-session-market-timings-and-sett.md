@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1792079571420.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-20T03:18:25.640320'
+  processed_at: '2026-10-20T08:21:21.962052'
   processor_version: '2.0'
-  stage: download_failed
+  stage: ai_failed
   status: failed
 published_date: '2026-10-15T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/legal/circulars/oct-2026/review-of-certain-aspects-of-the-closing-auction-session-market-timings-and-settlement-methodology-for-derivatives-contracts_105293.html

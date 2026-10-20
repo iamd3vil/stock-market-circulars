@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/ORDER_1791957080.
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-20T03:19:51.115125'
+  processed_at: '2026-10-20T08:23:04.959830'
   processor_version: '2.0'
-  stage: download_failed
+  stage: ai_failed
   status: failed
 published_date: '2026-10-14T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/orders/oct-2026/confirmatory-order-in-the-matter-of-rajesh-exports-limited_105261.html
