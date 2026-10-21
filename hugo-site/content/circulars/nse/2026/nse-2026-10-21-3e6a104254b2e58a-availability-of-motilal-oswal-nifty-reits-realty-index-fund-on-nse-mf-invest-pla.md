@@ -1,0 +1,20 @@
+---
+circular_id: 3e6a104254b2e58a
+draft: true
+guid: https://nsearchives.nseindia.com/content/circulars/NMF77016.pdf
+pdf_url: https://nsearchives.nseindia.com/content/circulars/NMF77016.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-10-21T14:41:47.537263'
+  processor_version: '2.0'
+  stage: ai_failed
+  status: failed
+published_date: '2026-10-21T00:00:00+05:30'
+rss_url: https://nsearchives.nseindia.com/content/circulars/NMF77016.pdf
+source: nse
+title: Availability of Motilal Oswal Nifty REITs & Realty Index Fund on NSE MF Invest
+  Platform
+---
+
+Processing in progress...

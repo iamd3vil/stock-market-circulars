@@ -1,0 +1,19 @@
+---
+circular_id: aaed9dc3ef9a1cd4
+draft: true
+guid: https://nsearchives.nseindia.com/content/circulars/CML77034.pdf
+pdf_url: https://nsearchives.nseindia.com/content/circulars/CML77034.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-10-21T14:39:54.491917'
+  processor_version: '2.0'
+  stage: ai_failed
+  status: failed
+published_date: '2026-10-21T00:00:00+05:30'
+rss_url: https://nsearchives.nseindia.com/content/circulars/CML77034.pdf
+source: nse
+title: Change in ISIN - Azad India Mobility Limited (AZADIND)
+---
+
+Processing in progress...
