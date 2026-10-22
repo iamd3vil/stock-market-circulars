@@ -1,0 +1,19 @@
+---
+circular_id: 904a50ecb965ddc1
+draft: true
+guid: https://nsearchives.nseindia.com/content/circulars/CML77069.pdf
+pdf_url: https://nsearchives.nseindia.com/content/circulars/CML77069.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-10-22T14:36:39.674696'
+  processor_version: '2.0'
+  stage: ai_failed
+  status: failed
+published_date: '2026-10-22T00:00:00+05:30'
+rss_url: https://nsearchives.nseindia.com/content/circulars/CML77069.pdf
+source: nse
+title: Suspension of trading in equity shares - Ashapura Intimates Fashion Limited
+---
+
+Processing in progress...
