@@ -6,9 +6,9 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/NMF77043.zip
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-22T00:00:51.288459'
+  processed_at: '2026-10-22T03:06:05.903836'
   processor_version: '2.0'
-  stage: download_failed
+  stage: ai_failed
   status: failed
 published_date: '2026-10-21T00:00:00+05:30'
 rss_url: https://nsearchives.nseindia.com/content/circulars/NMF77043.zip
