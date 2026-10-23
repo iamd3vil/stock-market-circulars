@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/COM77049.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-23T03:01:30.048616'
+  processed_at: '2026-10-23T08:28:44.832483'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
