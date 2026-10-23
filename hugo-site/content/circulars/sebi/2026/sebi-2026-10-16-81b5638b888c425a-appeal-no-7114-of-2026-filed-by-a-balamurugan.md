@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1792175167617.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-23T00:26:30.771430'
+  processed_at: '2026-10-23T03:10:03.903479'
   processor_version: '2.0'
-  stage: download_failed
+  stage: ai_failed
   status: failed
 published_date: '2026-10-16T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7114-of-2026-filed-by-a-balamurugan_105319.html
