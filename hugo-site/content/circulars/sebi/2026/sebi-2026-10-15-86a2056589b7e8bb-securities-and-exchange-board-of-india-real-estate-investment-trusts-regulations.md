@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1792669152772.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-23T08:34:10.686941'
+  processed_at: '2026-10-23T14:24:33.146485'
   processor_version: '2.0'
-  stage: ai_failed
+  stage: download_failed
   status: failed
 published_date: '2026-10-15T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-real-estate-investment-trusts-regulations-2014-last-amended-on-october-15-2026-_105376.html
