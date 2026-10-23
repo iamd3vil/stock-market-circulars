@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/DS77072.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-22T19:32:29.764900'
+  processed_at: '2026-10-23T00:14:34.576529'
   processor_version: '2.0'
   stage: ai_failed
   status: failed

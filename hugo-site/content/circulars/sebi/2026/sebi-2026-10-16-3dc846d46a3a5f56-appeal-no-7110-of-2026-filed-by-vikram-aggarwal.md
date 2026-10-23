@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1792154687966.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-22T19:39:04.516291'
+  processed_at: '2026-10-23T00:26:50.830354'
   processor_version: '2.0'
-  stage: ai_failed
+  stage: download_failed
   status: failed
 published_date: '2026-10-16T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7110-of-2026-filed-by-vikram-aggarwal_105309.html
