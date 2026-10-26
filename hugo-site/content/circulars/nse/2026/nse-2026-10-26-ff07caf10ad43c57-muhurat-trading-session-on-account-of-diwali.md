@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/ISC77098.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-26T15:49:43.507070'
+  processed_at: '2026-10-26T18:35:34.373997'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
