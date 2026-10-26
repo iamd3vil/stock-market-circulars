@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1792674003634_1.p
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-26T18:37:17.559266'
+  processed_at: '2026-10-26T21:29:54.875891'
   processor_version: '2.0'
-  stage: download_failed
+  stage: ai_failed
   status: failed
 published_date: '2026-10-22T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/certificate-no-rc9307-of-2026-notice-of-demand-in-respect-of-sri-salasar-suppliers-pvt-ltd-pan-aadcs8457r-in-the-matter-of-decillion-finance-limited_105388.html
