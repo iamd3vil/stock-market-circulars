@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1792154542539.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-25T21:39:19.699034'
+  processed_at: '2026-10-26T00:36:01.708199'
   processor_version: '2.0'
-  stage: ai_failed
+  stage: download_failed
   status: failed
 published_date: '2026-10-16T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7099-of-2026-filed-by-vikram-aggarwal_105303.html
