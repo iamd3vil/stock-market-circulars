@@ -2,11 +2,11 @@
 circular_id: 10aa241dd3c9bafc
 draft: true
 guid: https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-infrastructure-investment-trusts-regulations-2014-last-amended-on-october-16-2026-_105377.html
-pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1792669315224.pdf
+pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1793187593604.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-28T09:16:59.023217'
+  processed_at: '2026-10-28T12:20:32.976087'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
