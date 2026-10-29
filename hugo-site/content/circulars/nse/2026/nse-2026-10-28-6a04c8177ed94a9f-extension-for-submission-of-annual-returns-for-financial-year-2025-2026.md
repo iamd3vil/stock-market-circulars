@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CMPL77125.zip
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-29T06:16:19.845597'
+  processed_at: '2026-10-29T09:21:04.489474'
   processor_version: '2.0'
   stage: ai_failed
   status: failed

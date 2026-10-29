@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CML77160.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-29T06:14:00.826925'
+  processed_at: '2026-10-29T09:18:05.048696'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
