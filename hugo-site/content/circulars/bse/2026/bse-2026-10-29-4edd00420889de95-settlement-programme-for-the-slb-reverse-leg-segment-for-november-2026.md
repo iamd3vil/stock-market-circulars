@@ -1,0 +1,19 @@
+---
+circular_id: 4edd00420889de95
+draft: true
+guid: https://www.bseindia.com/downloads/UploadDocs/Notices/20261029-9/20261029-9.pdf
+pdf_url: https://www.bseindia.com/downloads/UploadDocs/Notices/20261029-9/20261029-9.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-10-29T12:14:44.086983'
+  processor_version: '2.0'
+  stage: ai_failed
+  status: failed
+published_date: '2026-10-29T10:34:49+00:00'
+rss_url: https://www.bseindia.com/downloads/UploadDocs/Notices/20261029-9/20261029-9.pdf
+source: bse
+title: Settlement Programme for the SLB Reverse Leg Segment for November 2026
+---
+
+Processing in progress...
