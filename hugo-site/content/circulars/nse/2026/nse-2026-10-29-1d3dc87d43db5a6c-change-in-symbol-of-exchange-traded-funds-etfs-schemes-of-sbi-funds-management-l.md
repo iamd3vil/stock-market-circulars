@@ -1,0 +1,20 @@
+---
+circular_id: 1d3dc87d43db5a6c
+draft: true
+guid: https://nsearchives.nseindia.com/content/circulars/CMPT77177.pdf
+pdf_url: https://nsearchives.nseindia.com/content/circulars/CMPT77177.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-10-29T18:23:55.464382'
+  processor_version: '2.0'
+  stage: ai_failed
+  status: failed
+published_date: '2026-10-29T00:00:00+05:30'
+rss_url: https://nsearchives.nseindia.com/content/circulars/CMPT77177.pdf
+source: nse
+title: Change in symbol of Exchange Traded Funds (ETF's) schemes of SBI Funds Management
+  Limited
+---
+
+Processing in progress...
