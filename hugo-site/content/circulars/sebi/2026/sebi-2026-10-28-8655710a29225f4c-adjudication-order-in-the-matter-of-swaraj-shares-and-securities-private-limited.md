@@ -2,13 +2,13 @@
 circular_id: 8655710a29225f4c
 draft: true
 guid: https://www.sebi.gov.in/enforcement/orders/oct-2026/adjudication-order-in-the-matter-of-swaraj-shares-and-securities-private-limited_105474.html
-pdf_url: https://www.sebi.gov.in/enforcement/orders/oct-2026/adjudication-order-in-the-matter-of-swaraj-shares-and-securities-private-limited_105474.html
+pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/ORDER_1793185263.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-29T03:32:51.265360'
+  processed_at: '2026-10-29T06:16:34.110039'
   processor_version: '2.0'
-  stage: download_failed
+  stage: ai_failed
   status: failed
 published_date: '2026-10-28T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/orders/oct-2026/adjudication-order-in-the-matter-of-swaraj-shares-and-securities-private-limited_105474.html
