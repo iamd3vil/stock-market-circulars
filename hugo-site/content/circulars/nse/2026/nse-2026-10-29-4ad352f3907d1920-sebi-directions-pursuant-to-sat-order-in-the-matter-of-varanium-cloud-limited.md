@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/INVG77174.zip
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-29T18:24:02.486533'
+  processed_at: '2026-10-29T21:13:39.186452'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
