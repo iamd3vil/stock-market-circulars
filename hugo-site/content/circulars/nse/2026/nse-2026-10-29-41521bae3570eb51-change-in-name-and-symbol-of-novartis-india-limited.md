@@ -1,0 +1,19 @@
+---
+circular_id: 41521bae3570eb51
+draft: true
+guid: https://nsearchives.nseindia.com/content/circulars/CML77171.pdf
+pdf_url: https://nsearchives.nseindia.com/content/circulars/CML77171.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-10-29T15:27:55.548311'
+  processor_version: '2.0'
+  stage: ai_failed
+  status: failed
+published_date: '2026-10-29T00:00:00+05:30'
+rss_url: https://nsearchives.nseindia.com/content/circulars/CML77171.pdf
+source: nse
+title: Change in name and symbol of Novartis India Limited
+---
+
+Processing in progress...
