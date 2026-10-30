@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/COM77198.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-30T15:30:27.564749'
+  processed_at: '2026-10-30T18:33:57.386503'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
