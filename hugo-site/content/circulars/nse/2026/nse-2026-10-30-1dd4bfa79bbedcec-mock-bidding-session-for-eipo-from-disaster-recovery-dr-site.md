@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/IPO77184.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-30T12:13:54.047191'
+  processed_at: '2026-10-30T15:32:28.034318'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
