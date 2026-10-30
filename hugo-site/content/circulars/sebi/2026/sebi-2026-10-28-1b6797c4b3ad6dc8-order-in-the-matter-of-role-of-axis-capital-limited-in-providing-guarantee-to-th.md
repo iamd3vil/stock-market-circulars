@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/ORDER_1793085318.
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-29T21:19:50.838041'
+  processed_at: '2026-10-30T00:31:15.060586'
   processor_version: '2.0'
-  stage: download_failed
+  stage: ai_failed
   status: failed
 published_date: '2026-10-28T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/orders/oct-2026/order-in-the-matter-of-role-of-axis-capital-limited-in-providing-guarantee-to-the-ncds-of-sojo-infotel-pvt-ltd-_105464.html
