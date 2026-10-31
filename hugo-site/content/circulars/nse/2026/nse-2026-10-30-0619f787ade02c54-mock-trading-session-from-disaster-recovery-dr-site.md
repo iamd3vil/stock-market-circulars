@@ -6,9 +6,9 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/DS77187.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-30T21:24:41.251382'
+  processed_at: '2026-10-31T00:29:02.175634'
   processor_version: '2.0'
-  stage: download_failed
+  stage: ai_failed
   status: failed
 published_date: '2026-10-30T00:00:00+05:30'
 rss_url: https://nsearchives.nseindia.com/content/circulars/DS77187.pdf
