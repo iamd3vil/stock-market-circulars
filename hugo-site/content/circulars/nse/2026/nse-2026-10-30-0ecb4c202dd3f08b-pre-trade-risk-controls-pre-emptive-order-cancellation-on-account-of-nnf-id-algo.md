@@ -6,9 +6,9 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CMTR77217.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-31T15:11:41.636238'
+  processed_at: '2026-10-31T18:26:01.998207'
   processor_version: '2.0'
-  stage: download_failed
+  stage: ai_failed
   status: failed
 published_date: '2026-10-30T00:00:00+05:30'
 rss_url: https://nsearchives.nseindia.com/content/circulars/CMTR77217.pdf
