@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/DS77187.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-31T21:24:08.382414'
+  processed_at: '2026-11-01T00:32:26.844374'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
