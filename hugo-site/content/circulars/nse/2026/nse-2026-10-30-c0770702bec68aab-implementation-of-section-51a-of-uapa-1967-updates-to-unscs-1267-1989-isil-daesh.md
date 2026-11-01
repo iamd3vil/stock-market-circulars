@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/ISC77207.zip
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-01T15:21:26.754230'
+  processed_at: '2026-11-01T18:13:01.156186'
   processor_version: '2.0'
   stage: ai_failed
   status: failed

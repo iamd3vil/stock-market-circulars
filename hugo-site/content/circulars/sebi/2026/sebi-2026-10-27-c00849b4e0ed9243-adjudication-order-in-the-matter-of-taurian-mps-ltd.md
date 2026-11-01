@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/ORDER_1793087952.
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-01T15:30:17.700020'
+  processed_at: '2026-11-01T18:21:29.794220'
   processor_version: '2.0'
-  stage: download_failed
+  stage: ai_failed
   status: failed
 published_date: '2026-10-27T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/orders/oct-2026/adjudication-order-in-the-matter-of-taurian-mps-ltd-_105452.html
