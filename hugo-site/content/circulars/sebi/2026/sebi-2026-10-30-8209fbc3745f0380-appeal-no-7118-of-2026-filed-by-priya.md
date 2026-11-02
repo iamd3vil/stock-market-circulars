@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1793358348833.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-02T12:19:42.187536'
+  processed_at: '2026-11-02T15:29:18.194783'
   processor_version: '2.0'
-  stage: download_failed
+  stage: ai_failed
   status: failed
 published_date: '2026-10-30T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7118-of-2026-filed-by-priya_105506.html
