@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CML77253.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-03T15:26:59.395812'
+  processed_at: '2026-11-03T18:28:23.957692'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
