@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CMPT77279.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-04T12:16:45.381975'
+  processed_at: '2026-11-04T15:34:02.998886'
   processor_version: '2.0'
   stage: ai_failed
   status: failed

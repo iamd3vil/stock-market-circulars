@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/DS77280.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-04T12:16:44.309459'
+  processed_at: '2026-11-04T15:33:57.576069'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
