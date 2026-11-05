@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/exemption_order_e
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-05T18:43:13.815115'
+  processed_at: '2026-11-05T21:32:31.385734'
   processor_version: '2.0'
-  stage: download_failed
+  stage: ai_failed
   status: failed
 published_date: '2026-11-03T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/exemption_order_embil.pdf
