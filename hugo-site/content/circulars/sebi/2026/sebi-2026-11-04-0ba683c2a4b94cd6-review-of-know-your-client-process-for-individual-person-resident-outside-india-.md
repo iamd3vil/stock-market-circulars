@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/1793791897866.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-05T06:13:56.738525'
+  processed_at: '2026-11-05T09:13:46.638494'
   processor_version: '2.0'
-  stage: download_failed
+  stage: ai_failed
   status: failed
 published_date: '2026-11-04T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/legal/circulars/nov-2026/review-of-know-your-client-process-for-individual-person-resident-outside-india-clients_105603.html
