@@ -1,0 +1,19 @@
+---
+circular_id: 464e3c1d0e475b6b
+draft: true
+guid: https://www.mcxindia.com/docs/default-source/circulars/english/2026/october/circular-603-2026.pdf
+pdf_url: https://www.mcxindia.com/docs/default-source/circulars/english/2026/october/circular-603-2026.pdf?sfvrsn=c21de606_1
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-11-05T18:49:03.403770'
+  processor_version: '2.0'
+  stage: ai_failed
+  status: failed
+published_date: '2026-10-23T00:00:00+05:30'
+rss_url: https://www.mcxindia.com/docs/default-source/circulars/english/2026/october/circular-603-2026.pdf?sfvrsn=c21de606_1
+source: mcx
+title: Observance of Vigilance Awareness Week
+---
+
+Processing in progress...

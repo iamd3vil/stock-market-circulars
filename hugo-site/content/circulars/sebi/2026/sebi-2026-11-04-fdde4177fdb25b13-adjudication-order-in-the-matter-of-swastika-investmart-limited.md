@@ -6,7 +6,7 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/ORDER_1793784433.
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-05T15:30:06.521687'
+  processed_at: '2026-11-05T18:43:44.635145'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
