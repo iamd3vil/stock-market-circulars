@@ -1,0 +1,21 @@
+---
+circular_id: e87f62d1cccd8417
+draft: true
+guid: https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-dated-november-06-2026-issued-under-rc-no-9229-of-2026-drawn-against-rakeshbhai-k-pandya-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-se-_105677.html
+pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/1793966403079_5.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-11-06T15:25:43.521248'
+  processor_version: '2.0'
+  stage: ai_failed
+  status: failed
+published_date: '2026-11-06T00:00:00+05:30'
+rss_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-dated-november-06-2026-issued-under-rc-no-9229-of-2026-drawn-against-rakeshbhai-k-pandya-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-se-_105677.html
+source: sebi
+title: SEBI order for compliance - Release Order dated November 06, 2026 issued under
+  RC No. 9229 of 2026 drawn against Rakeshbhai K Pandya in the matter of Trading activity
+  in the scrip of ANI Integrated Services Limited
+---
+
+Processing in progress...

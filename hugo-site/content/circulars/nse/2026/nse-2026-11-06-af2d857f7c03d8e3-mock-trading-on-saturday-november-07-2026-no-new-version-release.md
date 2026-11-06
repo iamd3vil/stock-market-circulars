@@ -6,9 +6,9 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CD77333.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-06T12:19:07.986905'
+  processed_at: '2026-11-06T15:32:32.138818'
   processor_version: '2.0'
-  stage: ai_failed
+  stage: download_failed
   status: failed
 published_date: '2026-11-06T00:00:00+05:30'
 rss_url: https://nsearchives.nseindia.com/content/circulars/CD77333.pdf
