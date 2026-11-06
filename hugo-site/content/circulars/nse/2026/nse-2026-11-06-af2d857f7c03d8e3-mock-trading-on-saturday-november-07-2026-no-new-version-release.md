@@ -1,0 +1,19 @@
+---
+circular_id: af2d857f7c03d8e3
+draft: true
+guid: https://nsearchives.nseindia.com/content/circulars/CD77333.pdf
+pdf_url: https://nsearchives.nseindia.com/content/circulars/CD77333.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-11-06T09:09:56.302344'
+  processor_version: '2.0'
+  stage: download_failed
+  status: failed
+published_date: '2026-11-06T00:00:00+05:30'
+rss_url: https://nsearchives.nseindia.com/content/circulars/CD77333.pdf
+source: nse
+title: Mock trading on Saturday, November 07, 2026 - No new version release
+---
+
+Processing in progress...
