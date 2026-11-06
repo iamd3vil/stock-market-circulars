@@ -6,9 +6,9 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/SLBS77327.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-06T18:29:59.249452'
+  processed_at: '2026-11-06T21:16:52.634571'
   processor_version: '2.0'
-  stage: ai_failed
+  stage: download_failed
   status: failed
 published_date: '2026-11-06T00:00:00+05:30'
 rss_url: https://nsearchives.nseindia.com/content/circulars/SLBS77327.pdf
