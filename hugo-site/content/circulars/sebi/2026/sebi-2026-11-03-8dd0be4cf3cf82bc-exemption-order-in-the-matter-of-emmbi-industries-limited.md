@@ -6,7 +6,7 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/exemption_order_e
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-06T09:13:59.242835'
+  processed_at: '2026-11-06T12:24:16.023381'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
