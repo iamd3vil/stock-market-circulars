@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/NMF77339.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-07T15:36:56.773513'
+  processed_at: '2026-11-07T18:31:05.557854'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
