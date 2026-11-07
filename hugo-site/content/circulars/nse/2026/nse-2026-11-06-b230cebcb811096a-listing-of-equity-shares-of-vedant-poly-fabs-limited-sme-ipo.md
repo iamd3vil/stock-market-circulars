@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CML77326.zip
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-07T03:43:08.123059'
+  processed_at: '2026-11-07T06:20:16.874068'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
