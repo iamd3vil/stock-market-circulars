@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/FAOP77329.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-08T00:50:24.684639'
+  processed_at: '2026-11-08T03:21:18.144228'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
