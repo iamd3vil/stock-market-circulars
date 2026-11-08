@@ -6,7 +6,7 @@ pdf_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-08T15:23:20.588963'
+  processed_at: '2026-11-08T18:23:43.832914'
   processor_version: '2.0'
   stage: download_failed
   status: failed
