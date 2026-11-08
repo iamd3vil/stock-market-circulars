@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/COMP77342.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-08T06:43:13.961500'
+  processed_at: '2026-11-08T09:41:40.936207'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
