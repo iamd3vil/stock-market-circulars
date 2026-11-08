@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CD77349.zip
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-08T03:19:22.680520'
+  processed_at: '2026-11-08T06:42:34.215216'
   processor_version: '2.0'
   stage: ai_failed
   status: failed

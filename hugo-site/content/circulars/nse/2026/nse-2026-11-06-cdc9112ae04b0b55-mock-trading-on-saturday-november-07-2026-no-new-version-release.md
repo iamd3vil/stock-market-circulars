@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/EGR77330.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-08T03:21:13.073850'
+  processed_at: '2026-11-08T06:45:04.391917'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
