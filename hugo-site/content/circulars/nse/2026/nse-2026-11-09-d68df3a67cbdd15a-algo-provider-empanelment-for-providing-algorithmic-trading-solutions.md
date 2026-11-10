@@ -6,9 +6,9 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/INVG77376.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-10T06:21:45.137499'
+  processed_at: '2026-11-10T09:40:18.582301'
   processor_version: '2.0'
-  stage: ai_failed
+  stage: download_failed
   status: failed
 published_date: '2026-11-09T00:00:00+05:30'
 rss_url: https://nsearchives.nseindia.com/content/circulars/INVG77376.pdf
