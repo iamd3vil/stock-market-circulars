@@ -6,9 +6,9 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CMPT77379.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-10T18:24:34.244840'
+  processed_at: '2026-11-10T21:40:16.236408'
   processor_version: '2.0'
-  stage: ai_failed
+  stage: download_failed
   status: failed
 published_date: '2026-11-09T00:00:00+05:30'
 rss_url: https://nsearchives.nseindia.com/content/circulars/CMPT77379.pdf
