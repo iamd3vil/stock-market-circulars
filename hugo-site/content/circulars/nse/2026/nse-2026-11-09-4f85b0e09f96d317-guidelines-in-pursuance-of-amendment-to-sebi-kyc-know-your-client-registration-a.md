@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/ISC77375.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-10T15:17:37.417039'
+  processed_at: '2026-11-10T18:24:50.136638'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
