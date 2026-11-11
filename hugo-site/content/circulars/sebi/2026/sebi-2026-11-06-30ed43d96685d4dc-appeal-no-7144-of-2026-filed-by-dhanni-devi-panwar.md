@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/1793962257159.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-11T09:18:17.123021'
+  processed_at: '2026-11-11T12:35:32.272805'
   processor_version: '2.0'
-  stage: ai_failed
+  stage: download_failed
   status: failed
 published_date: '2026-11-06T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7144-of-2026-filed-by-dhanni-devi-panwar_105662.html

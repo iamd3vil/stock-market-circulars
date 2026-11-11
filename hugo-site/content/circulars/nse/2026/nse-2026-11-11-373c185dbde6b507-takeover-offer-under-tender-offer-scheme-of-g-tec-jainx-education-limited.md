@@ -6,9 +6,9 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CML77384.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-11T09:09:23.138037'
+  processed_at: '2026-11-11T12:32:48.191931'
   processor_version: '2.0'
-  stage: ai_failed
+  stage: download_failed
   status: failed
 published_date: '2026-11-11T00:00:00+05:30'
 rss_url: https://nsearchives.nseindia.com/content/circulars/CML77384.pdf
