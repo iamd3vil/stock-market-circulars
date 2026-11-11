@@ -6,9 +6,9 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/EGR77380.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-11T06:17:56.153833'
+  processed_at: '2026-11-11T09:08:55.737458'
   processor_version: '2.0'
-  stage: ai_failed
+  stage: download_failed
   status: failed
 published_date: '2026-11-11T00:00:00+05:30'
 rss_url: https://nsearchives.nseindia.com/content/circulars/EGR77380.pdf
