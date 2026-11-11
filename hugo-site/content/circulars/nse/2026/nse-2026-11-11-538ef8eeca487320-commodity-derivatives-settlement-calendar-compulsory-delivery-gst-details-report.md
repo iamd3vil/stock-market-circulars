@@ -6,9 +6,9 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/COM77399.zip
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-11T15:17:58.032312'
+  processed_at: '2026-11-11T18:12:11.142301'
   processor_version: '2.0'
-  stage: ai_failed
+  stage: download_failed
   status: failed
 published_date: '2026-11-11T00:00:00+05:30'
 rss_url: https://nsearchives.nseindia.com/content/circulars/COM77399.zip
