@@ -6,7 +6,7 @@ pdf_url: https://www.bseindia.com/downloads/UploadDocs/Notices/20261113-7/202611
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-14T06:40:15.783484'
+  processed_at: '2026-11-14T09:22:56.449883'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
