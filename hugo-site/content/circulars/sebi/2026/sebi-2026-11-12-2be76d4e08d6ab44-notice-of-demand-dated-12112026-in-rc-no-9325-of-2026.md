@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/1794564906402_3.p
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-14T12:41:46.664097'
+  processed_at: '2026-11-14T15:34:25.811466'
   processor_version: '2.0'
-  stage: download_failed
+  stage: ai_failed
   status: failed
 published_date: '2026-11-12T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-dated-12-11-2026-in-rc-no-9325-of-2026_105741.html
