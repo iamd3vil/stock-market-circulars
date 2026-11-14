@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/1794564906402_5.p
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-13T21:40:29.538449'
+  processed_at: '2026-11-14T00:39:31.514242'
   processor_version: '2.0'
-  stage: ai_failed
+  stage: download_failed
   status: failed
 published_date: '2026-11-12T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-dated-12-11-2026-issued-in-rc-no-9286-of-2026_105745.html
