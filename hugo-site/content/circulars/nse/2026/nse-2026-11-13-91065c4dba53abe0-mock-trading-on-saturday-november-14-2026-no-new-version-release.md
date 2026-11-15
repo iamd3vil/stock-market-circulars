@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/SLBS77419.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-15T06:27:24.519340'
+  processed_at: '2026-11-15T09:32:46.163190'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
