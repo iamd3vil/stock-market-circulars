@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/FAOP77418.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-15T18:33:26.795321'
+  processed_at: '2026-11-15T21:21:49.926803'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
