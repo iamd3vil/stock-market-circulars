@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/FA77421.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-15T09:32:18.870512'
+  processed_at: '2026-11-15T12:27:37.492223'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
