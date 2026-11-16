@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CD77414.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-16T00:33:05.132673'
+  processed_at: '2026-11-16T03:24:49.222194'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
