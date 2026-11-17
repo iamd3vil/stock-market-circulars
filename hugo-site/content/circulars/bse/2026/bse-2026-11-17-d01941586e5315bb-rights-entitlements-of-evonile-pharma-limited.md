@@ -1,0 +1,19 @@
+---
+circular_id: d01941586e5315bb
+draft: true
+guid: https://www.bseindia.com/downloads/UploadDocs/Notices/20261117-2/20261117-2.pdf
+pdf_url: https://www.bseindia.com/downloads/UploadDocs/Notices/20261117-2/20261117-2.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-11-17T06:16:29.099264'
+  processor_version: '2.0'
+  stage: ai_failed
+  status: failed
+published_date: '2026-11-17T05:31:00+00:00'
+rss_url: https://www.bseindia.com/downloads/UploadDocs/Notices/20261117-2/20261117-2.pdf
+source: bse
+title: Rights Entitlements of EVONILE PHARMA LIMITED.
+---
+
+Processing in progress...
