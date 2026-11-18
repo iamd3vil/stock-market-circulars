@@ -1,0 +1,19 @@
+---
+circular_id: 7d7a19455a8fdfcf
+draft: true
+guid: https://www.bseindia.com/downloads/UploadDocs/Notices/20261118-25/20261118-25.pdf
+pdf_url: https://www.bseindia.com/downloads/UploadDocs/Notices/20261118-25/20261118-25.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-11-18T15:18:05.240650'
+  processor_version: '2.0'
+  stage: ai_failed
+  status: failed
+published_date: '2026-11-18T13:32:31+00:00'
+rss_url: https://www.bseindia.com/downloads/UploadDocs/Notices/20261118-25/20261118-25.pdf
+source: bse
+title: Applicability of Long-Term Additional Surveillance Measure (LT-ASM)
+---
+
+Processing in progress...
