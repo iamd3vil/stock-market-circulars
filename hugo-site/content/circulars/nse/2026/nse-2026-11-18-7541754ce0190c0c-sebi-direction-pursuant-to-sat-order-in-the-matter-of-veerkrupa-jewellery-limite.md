@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/INVG77495.zip
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-18T18:34:06.498880'
+  processed_at: '2026-11-18T21:17:14.349475'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
