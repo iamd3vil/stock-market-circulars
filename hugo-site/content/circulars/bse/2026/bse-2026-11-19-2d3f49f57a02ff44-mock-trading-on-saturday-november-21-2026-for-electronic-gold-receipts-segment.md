@@ -1,0 +1,19 @@
+---
+circular_id: 2d3f49f57a02ff44
+draft: true
+guid: https://www.bseindia.com/downloads/UploadDocs/Notices/20261119-29/20261119-29.pdf
+pdf_url: https://www.bseindia.com/downloads/UploadDocs/Notices/20261119-29/20261119-29.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-11-19T15:32:45.629745'
+  processor_version: '2.0'
+  stage: ai_failed
+  status: failed
+published_date: '2026-11-19T13:21:27+00:00'
+rss_url: https://www.bseindia.com/downloads/UploadDocs/Notices/20261119-29/20261119-29.pdf
+source: bse
+title: Mock Trading on Saturday, November 21, 2026, for Electronic Gold Receipts segment
+---
+
+Processing in progress...
