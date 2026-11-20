@@ -6,9 +6,9 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CML77524.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-20T03:18:34.715432'
+  processed_at: '2026-11-20T06:21:21.219030'
   processor_version: '2.0'
-  stage: ai_failed
+  stage: download_failed
   status: failed
 published_date: '2026-11-19T00:00:00+05:30'
 rss_url: https://nsearchives.nseindia.com/content/circulars/CML77524.pdf
