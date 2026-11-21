@@ -6,7 +6,7 @@ pdf_url: https://www.mcxindia.com/docs/default-source/circulars/english/2026/oct
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-20T21:29:56.853454'
+  processed_at: '2026-11-21T00:49:03.259149'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
