@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/EGR77552.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-21T09:19:19.063276'
+  processed_at: '2026-11-21T12:20:10.794193'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
