@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CD77546.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-22T00:33:06.432073'
+  processed_at: '2026-11-22T03:26:41.590024'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
