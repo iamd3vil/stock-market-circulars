@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CMPT77551.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-22T21:24:54.215123'
+  processed_at: '2026-11-23T00:24:04.262979'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
