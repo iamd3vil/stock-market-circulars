@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/SURV77600.zip
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-25T18:38:54.611011'
+  processed_at: '2026-11-25T21:38:23.072898'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
