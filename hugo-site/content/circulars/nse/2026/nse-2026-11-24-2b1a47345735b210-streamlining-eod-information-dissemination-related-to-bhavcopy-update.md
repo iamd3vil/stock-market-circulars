@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/MSD77581.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-25T00:28:54.368357'
+  processed_at: '2026-11-25T03:24:25.894161'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
