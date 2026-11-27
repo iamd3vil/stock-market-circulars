@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/SLBS77635.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-27T18:21:10.698900'
+  processed_at: '2026-11-27T21:30:52.529415'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
