@@ -6,9 +6,9 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/COM77631.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-27T03:32:23.847445'
+  processed_at: '2026-11-27T06:20:47.789147'
   processor_version: '2.0'
-  stage: download_failed
+  stage: ai_failed
   status: failed
 published_date: '2026-11-26T00:00:00+05:30'
 rss_url: https://nsearchives.nseindia.com/content/circulars/COM77631.pdf
