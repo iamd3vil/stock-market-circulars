@@ -2,13 +2,13 @@
 circular_id: 8efd9152ac95fbae
 draft: true
 guid: https://www.sebi.gov.in/enforcement/orders/nov-2026/ex-parte-interim-order-in-the-matter-of-le-lavoir-limited-and-others_105966.html
-pdf_url: https://www.sebi.gov.in/enforcement/orders/nov-2026/ex-parte-interim-order-in-the-matter-of-le-lavoir-limited-and-others_105966.html
+pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/ORDER_1795685941.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-27T09:26:55.461588'
+  processed_at: '2026-11-27T12:26:03.229468'
   processor_version: '2.0'
-  stage: download_failed
+  stage: ai_failed
   status: failed
 published_date: '2026-11-26T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/orders/nov-2026/ex-parte-interim-order-in-the-matter-of-le-lavoir-limited-and-others_105966.html

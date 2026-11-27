@@ -6,7 +6,7 @@ pdf_url: https://www.sebi.gov.in/filings/public-issues/aug-2026/muthoot-fincorp-
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-27T09:26:55.486123'
+  processed_at: '2026-11-27T12:25:13.990990'
   processor_version: '2.0'
   stage: download_failed
   status: failed
