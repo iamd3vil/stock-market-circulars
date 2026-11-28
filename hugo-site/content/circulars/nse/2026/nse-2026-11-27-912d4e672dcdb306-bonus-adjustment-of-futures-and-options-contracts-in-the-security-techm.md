@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/FAOP77656.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-11-27T21:27:40.927253'
+  processed_at: '2026-11-28T00:21:30.409381'
   processor_version: '2.0'
   stage: ai_failed
   status: failed
